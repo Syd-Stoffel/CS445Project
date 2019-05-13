@@ -64,4 +64,7 @@ STRING exit
 ENTER
 ```
 
+## Additional photos and resources
+These are available upon request, I do have the PenPi device on hand and can demo the script in person if necessary - please let me know if that will be needed!
+
 ### END OF FILE
